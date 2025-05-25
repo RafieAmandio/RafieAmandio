@@ -5,7 +5,7 @@
 
 I'm passionate about building decentralized applications and contributing to the Web3 ecosystem. Currently working with zero-knowledge proofs and StarkNet technology while pursuing my degree at Universitas Indonesia.
 
-![](https://leetcard.jacoblin.cool/rafieamandio?ext=activity)
+![](https://leetcard.jacoblin.cool/rafieamandio)
 
 ### 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafieamandio/)
